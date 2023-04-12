@@ -3,7 +3,7 @@ Mein Name ist Matthias Wagner
 und ich bin ein aufstrebender Webentwickler mit einer Leidenschaft für die Erstellung von ansprechenden und benutzerfreundlichen Websites. Meine fortgeschrittenen Kenntnisse in HTML, CSS, JavaScript und React ermöglichen es mir, Websites zu erstellen, die nicht nur gut aussehen, sondern auch einfach zu bedienen sind. Ich arbeite ständig daran, meine Fähigkeiten zu verbessern und immer besser zu werden. Schauen Sie sich gerne meine Arbeit an und lassen Sie sich von meinen Fähigkeiten überzeugen!
 
 ## Meine Projekte 🚀
-Ich habe an vielen interessanten Projekten gearbeitet. Schauen Sie sich meine [Projekte](https://matzew95.github.io/) an.
+Ich habe an vielen interessanten Projekten gearbeitet. [Hier](https://matzew95.github.io/) können Sie sich meine Projekte ansehen.
 
 ## Kontaktiere mich 📫
 - [E-Mail](mailto:matthiaswgnr@icloud.com)
